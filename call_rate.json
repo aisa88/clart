@@ -1,0 +1,8 @@
+[
+    {
+        "action": "talk",
+        "voiceName": "Russell",
+        "text":"The number of times the audio file at stream_url is repeated before the stream ends. The default value is 1. Set to 0 to loop infinitely.",
+        "loop":0
+    }
+]
