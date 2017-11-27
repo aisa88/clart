@@ -2,6 +2,6 @@
     {
         "action": "talk",
           "text":"The general voicemail greeting is used as the default voicemail greeting if you don't set any other greeting type. ",
-        "loop":44
+        "loop":1
     }
 ]
