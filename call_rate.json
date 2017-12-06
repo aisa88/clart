@@ -1,7 +1,7 @@
 [
     {
         "action": "talk",
-          "text":"The general voicemail greeting is used as the default voicemail greeting if you don't set any other greeting type. ",
-        "loop":1
+          "text":"The general voicemail greeting is used as the default voicemail greeting if you don't set any other greeting type. The general voicemail greeting is used as the default voicemail greeting if you don't set any other greeting type.The general voicemail greeting is used as the default voicemail greeting if you don't set any other greeting type.The general voicemail greeting is used as the default voicemail greeting if you don't set any other greeting type.The general voicemail greeting is used as the default voicemail greeting if you don't set any other greeting type.The general voicemail greeting is used as the default voicemail greeting if you don't set any other greeting type.The general voicemail greeting is used as the default voicemail greeting if you don't set any other greeting type.The general voicemail greeting is used as the default voicemail greeting if you don't set any other greeting type.The general voicemail greeting is used as the default voicemail greeting if you don't set any other greeting type.",
+        "loop":0
     }
 ]
